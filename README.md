@@ -1,7 +1,7 @@
-- 👋 Hi, I’m João Victor Lopes
-- 👀 I’m interested in Data Science, Python, Power BI, SQL and Excel
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science
+- 👋 Hi, I’m João Victor Lopes!
+- 👀 I’m interested in Data Science as general, Python, Power BI, SQL and Excel.
+- 🌱 I’m currently learning Python, PySpark and SQL.
+- 💞️ I’m looking to collaborate on Data Science as Data Analyst.
 - 📫 Find me on joaovictorlopesg@hotmail.com
 
 <!---
