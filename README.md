@@ -1,8 +1,12 @@
 - 👋 Hi, I’m João Victor Lopes!
-- 👀 I’m interested in Data Science as general with focus on Python, Power BI, SQL and Excel.
-- 🌱 I’m currently learning how to code and integrate Python, PySpark, SQL and improving my Power Bi knowledge.
-- 💞️ I’m looking to collaborate on Data Science as Data Analyst.
-- 📫 Find me on joaovictorlopesg@hotmail.com
+- 👀 I’m interested in projects and data science as general with focus on data viz and data manipulation.
+- 🌱 I’m currently learning how to code and integrate Python to improve my data analyzes.
+- 💞️ I developed some projects in my current experience at Geodis:
+        "Gerenciamento de Risco para Embarques Controlados"
+        "Mapeamento de Transportadores"
+        "Validador de Comprovantes de Entregas"
+        "Dashboard de Rentabilidade
+- 📫 Find me on joaovictorlopesg@hotmail.com and LinkedIn: https://www.linkedin.com/in/joaovictorlopes1998/
 
 <!---
 joaovictorlopes1998/joaovictorlopes1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
