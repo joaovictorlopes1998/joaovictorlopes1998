@@ -1,7 +1,7 @@
 - 👋 Hi, I’m João Victor Lopes!
 - 👀 I’m interested in Data Science as general
-- 🌱 I’m currently improving Python and Power BI skills
-- 💞️ Currently working at Modern Logistics as Project Analyst and doing some stuffs here and Kaggle
+- 🌱 I’m currently improving my Python and Power BI skills
+- 💞️ Currently working at Elsys as Data and Business Intelligence Analyst
 - 📫 Find me on LinkedIn: https://www.linkedin.com/in/joaovictorlopes1998/
 
 <!---
